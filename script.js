@@ -55,6 +55,15 @@ for (category of hogwartsHouses){
         console.log(char);
     }
 };
+// Also this works (and is less code)
+/*
+for (houses of hogwartsHouses){
+    for (letters of houses){
+        console.log(letters);
+    }
+}
+*/
+
 
 // 6a 
 const quote = [
@@ -66,3 +75,8 @@ const quote = [
 
 // 6b 
 let oneLine = '';
+
+while (quote != oneLine){
+    console.log(quote.join(' '));
+    break;
+}
