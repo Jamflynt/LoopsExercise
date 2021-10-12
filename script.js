@@ -80,3 +80,13 @@ while (quote != oneLine){
     console.log(quote.join(' '));
     break;
 }
+
+// Also works 
+/*
+let sentence = "";
+for (word of quote){
+    sentence += `${word} `;
+    console.log(sentence);
+}
+console.log(sentence.trim());
+*/
