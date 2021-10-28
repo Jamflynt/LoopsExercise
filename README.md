@@ -1,8 +1,8 @@
 # LoopsExercise
 10/11/21 Loops Exercise
 
-1. Use a For Loop to count from 1 to 7 and have each number display in the console/terminal (You will need a console log for this)<br>
-2. Use a For Loop to count from 5 to 25 by 4 (Ex: 5, 9, 13, etc.) and have each number display in the console/terminal (You will need a console log for this)<br>
+1a. Use a For Loop to count from 1 to 7 and have each number display in the console/terminal (You will need a console log for this)<br>
+2a. Use a For Loop to count from 5 to 25 by 4 (Ex: 5, 9, 13, etc.) and have each number display in the console/terminal (You will need a console log for this)<br>
 3a. Create a const variable named wizards and set the value of the variable to the following array items "Harry Potter", "Hermione Granger", and "Ron Weasley"<br>
 3b. Use a For Of Loop to have each name display in the console/terminal (You will need a console log for this)<br>
 4a. Create a let variable called harryPotterMovies and set the value to 0 (That's a zero not O).<br>
